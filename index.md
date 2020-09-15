@@ -2,9 +2,11 @@
 layout: default
 ---
 
+![profilepic](./assets/images/IMG_0113.jpeg)
+
 # About Me
 
-I am a computer science graduate student at Texas State University.
+I am a computer science graduate student at Texas State University. TODO
 
 ## Education
 
@@ -22,3 +24,19 @@ I am a computer science graduate student at Texas State University.
 - shell
 - AppleScript
 
+## Interests
+
+- TODO
+  
+## Employment
+
+- TODO
+  
+## Awards
+
+- TODO
+
+Projects|Description
+--------|-----------
+[AppleScripts](https://github.com/kevin-funderburg/AppleScripts)|Personal project for `AppleScript` and `shell` script education
+[dockerized-pytest-course](https://github.com/kevin-funderburg/dockerized-pytest-course)|Project to practice Test Driven Development using `pytest` and `Docker`
